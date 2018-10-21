@@ -1,0 +1,17 @@
+-First Video:
+    -make changes to settings.py
+    -add template,media,static directories
+    -add PASSWORD HASHERS
+    -add static and media url and media
+
+-Second Video :
+    -theory of user models
+    -use built in user authentication and authorization
+
+
+-Git Hub :
+    -Git and GitHub are not the same thing
+    -Git is version control that helps keep track of changes in code
+    -GiHub is company that helps manage git.
+    -GitHub is one of the most popular code hosting website
+    -
